@@ -1,0 +1,32 @@
+.date {
+    background-color: black;
+    color: white;
+    font-size: 69%;
+    height: 26px;
+    width: 33%;
+    text-align: center;
+    padding-top: 4px;
+    margin-bottom: 2%;
+}
+
+.cardTitleCustom {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1rem;
+    color: white
+}
+
+.cardTextCustom {
+    font-size: 77%;
+    color: #c1c1c1;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+.imgCard {
+    height: 12rem;
+    width: 13rem;
+    margin: auto;
+}
+
+.cardBodyCustom {
+    background: #000000f2;
+}

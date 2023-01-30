@@ -1,0 +1,16 @@
+[
+    { "name": "Kasuzuke", "price": "$20", "image": "https://png.pngitem.com/pimgs/s/152-1520433_kasuzuke-hd-png-download.png"},
+    { "name": "Trail Blazing", "price": "$22", "image": "https://png.pngitem.com/pimgs/s/152-1520387_trail-blazing-chicken-sisig-hd-png-download.png"},
+    { "name": "Asian Food", "price": "$25", "image": "https://png.pngitem.com/pimgs/s/242-2422998_header-image-side-dish-hd-png-download.png"},
+    { "name": "Chicken Dish", "price": "$10", "image": "https://png.pngitem.com/pimgs/s/43-435438_meal-png-pic-chicken-dish-in-plate-png.png"},
+    { "name": "Charkel", "price": "$30", "image": "https://png.pngitem.com/pimgs/s/298-2980464_side-dish-hd-png-download.png"},
+
+    { "name": "Italian Food", "price": "$20", "image": "https://png.pngitem.com/pimgs/s/151-1519875_food-dish-png-transparent-png.png"},
+
+    { "name": "Pasta", "price": "$10", "image": "https://png.pngitem.com/pimgs/s/474-4744308_png-food-top-view-png-download-food-dish.png"},
+
+    { "name": "French Dish", "price": "$15", "image": "https://png.pngitem.com/pimgs/s/43-435545_style-top-healthy-dishes-png-transparent-png.png"},
+
+    { "name": "Prawns", "price": "$20", "image": "https://png.pngitem.com/pimgs/s/298-2980464_side-dish-hd-png-download.png"}
+ 
+ ]

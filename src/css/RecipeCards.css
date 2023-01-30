@@ -1,0 +1,16 @@
+.cardLayout {
+    width: 14rem;
+    height: 20rem;
+}
+
+.cardTextCust {
+    margin-bottom: 3%;
+}
+
+.title {
+    padding-top: 1%;
+}
+.titleDiv {
+    height: 4rem;
+    background: #e3d105;
+}
